@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archie-cm
 - 👀 I’m interested in data
-- 🌱 I’m currently learning data engineering
+- 🌱 I’m currently learning data engineering and cloud computing
 - 📫 How to reach me ...
 
 <!---
